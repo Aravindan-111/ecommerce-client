@@ -1,7 +1,6 @@
 import {
   Email,
   EmailOutlined,
-  LinkedIn,
   LocationCity,
   Phone,
   PhoneAndroidOutlined,
